@@ -2,8 +2,9 @@
 
 ## Tested Devices ##
 * Samsung Galaxy S6/Edge/Edge+ with Android Nougat/Oreo/Pie
+* Samsung Galaxy Note 5 with Android Nougat/Oreo/Pie
 * Xiaomi Mi 8 Lite with Android Pie
-* Xiaomi Pocophone with Android Oreo/Pie
+* Xiaomi Pocophone F1 with Android Oreo/Pie
 * Xiaomi Redmi Note 4 with Android Pie
 * Motorola Moto E5 with Android Oreo
 * OnePlus 6T with Android Pie
