@@ -20,7 +20,7 @@
 
 ## Changelog ##
 #### 1.2 ####
-*Updated Magisk module template
+* Updated Magisk module template
 
 #### 1.0 ####
 * Updated Fonts to the newest
