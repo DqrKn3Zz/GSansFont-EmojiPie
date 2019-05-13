@@ -19,6 +19,9 @@
 * <a href="https://drive.google.com/file/d/17tXaOnoGf2xte3QfuI4tiJSlfC4B2k6B/view?usp=drivesdk">Google Drive</a>
 
 ## Changelog ##
+#### 1.2 ####
+*Updated Magisk module template
+
 #### 1.0 ####
 * Updated Fonts to the newest
 * Updated NotoColorEmojis to the newest
