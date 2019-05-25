@@ -123,7 +123,7 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     GSans Font & Emoji Pie    "
+  ui_print "     GSans Font & Emoji Q    "
   ui_print "*******************************"
 }
 
