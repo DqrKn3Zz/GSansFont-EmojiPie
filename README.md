@@ -7,6 +7,7 @@
 * Xiaomi Pocophone F1 with Android Oreo/Pie
 * Xiaomi Redmi Note 4 with Android Pie
 * Motorola Moto E5 with Android Oreo
+* Google Pixel 3a XL with Android Pie
 * OnePlus 6T with Android Pie
 
 ## Known bug ##
