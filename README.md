@@ -19,6 +19,9 @@
 * <a href="https://drive.google.com/file/d/17tXaOnoGf2xte3QfuI4tiJSlfC4B2k6B/view?usp=drivesdk">Google Drive</a>
 
 ## Changelog ##
+#### 1.4 ####
+* Updated emojis from latest Q Beta 5
+
 #### 1.3 ####
 * Added Emojis from Android Q Beta
 * Fixed minor issues
