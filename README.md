@@ -1,4 +1,4 @@
-# Google Sans Font with Emojis of Android Q
+# Google Sans Font with Emojis of Android 10
 
 ## Tested Devices ##
 * Samsung Galaxy S6/Edge/Edge+ with Android Nougat/Oreo/Pie
@@ -20,6 +20,9 @@
 * <a href="https://drive.google.com/file/d/17tXaOnoGf2xte3QfuI4tiJSlfC4B2k6B/view?usp=drivesdk">Google Drive</a>
 
 ## Changelog ##
+#### 1.5 ####
+* Updated emojis from latest Android 10 release
+
 #### 1.4 ####
 * Updated emojis from latest Q Beta 5
 
