@@ -1,6 +1,6 @@
 id=gsansfontandemojiq
 name=GSans Font & Emoji Q
-version=v1.4 (2019.07.19)
-versionCode=14
+version=v1.5 (2019.09.04)
+versionCode=15
 author=DqrKn3Zz
-description=This module give you the Google Sans font and the same time the emojis of Android Q Beta (Extracted from a OnePlus 6T)
+description=This module give you the Google Sans font and the same time the emojis of Android 10 (Extracted from a system image for Pixel 2)
